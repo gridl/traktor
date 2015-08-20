@@ -1,0 +1,20 @@
+{
+  "name": "traktor",
+  "version": "0.1.0",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-table": "~1.8.1",
+    "bootstrap": "~3.3.5",
+    "bootstrap-table-filter": "~1.1.0"
+  }
+}

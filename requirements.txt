@@ -1,0 +1,2 @@
+ipython==4.0.0
+Scrapy==1.0.3

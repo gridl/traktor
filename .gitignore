@@ -1,0 +1,5 @@
+venv
+.DS_Store
+*.swp
+web/bower_components
+web/data
