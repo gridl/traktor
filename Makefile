@@ -3,4 +3,4 @@ grab:
 
 deploy_pages:
 	venv/bin/ghp-import web
-	git push origin gh_pages
+	git push origin gh-pages 
