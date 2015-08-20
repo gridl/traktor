@@ -1,0 +1,667 @@
+[
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Norway",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Europe-Norway.svg/250px-Europe-Norway.svg.png",
+    "name": "Norway",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/125px-Flag_of_Norway.svg.png",
+    "languages": [
+      "Norwegian",
+      "Lule Sami",
+      "Northern Sami",
+      "Southern Sami"
+    ],
+    "iso_code": "NO",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+    "position": 1,
+    "hdi": 0.944
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Australia",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Australia_%28orthographic_projection%29.svg/220px-Australia_%28orthographic_projection%29.svg.png",
+    "name": "Australia",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/125px-Flag_of_Australia.svg.png",
+    "languages": [
+      "English"
+    ],
+    "iso_code": "AU",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png",
+    "position": 2,
+    "hdi": 0.933
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Switzerland",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Europe-Switzerland.svg/250px-Europe-Switzerland.svg.png",
+    "name": "Switzerland",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/125px-Flag_of_Switzerland_%28Pantone%29.svg.png",
+    "languages": [
+      "German",
+      "French",
+      "Italian",
+      "Romansh"
+    ],
+    "iso_code": "CH",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png",
+    "position": 3,
+    "hdi": 0.917
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Netherlands",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/EU-Netherlands.svg/250px-EU-Netherlands.svg.png",
+    "name": "Netherlands",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png",
+    "languages": [
+      "Dutch",
+      "West Frisian",
+      "English",
+      "Papiamento"
+    ],
+    "iso_code": "NL",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+    "position": 4,
+    "hdi": 0.915
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/United_States",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USA_orthographic.svg/220px-USA_orthographic.svg.png",
+    "name": "United States",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png",
+    "languages": [
+      "English"
+    ],
+    "iso_code": "US",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+    "position": 5,
+    "hdi": 0.914
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Germany",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/EU-Germany.svg/250px-EU-Germany.svg.png",
+    "name": "Germany",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png",
+    "languages": [
+      "German"
+    ],
+    "iso_code": "DE",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+    "position": 6,
+    "hdi": 0.911
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/New_Zealand",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/NZL_orthographic_NaturalEarth.svg/250px-NZL_orthographic_NaturalEarth.svg.png",
+    "name": "New Zealand",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/125px-Flag_of_New_Zealand.svg.png",
+    "languages": [
+      "English",
+      "Māori",
+      "NZ Sign Language"
+    ],
+    "iso_code": "NZ",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+    "position": 7,
+    "hdi": 0.91
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Canada",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Canada_%28orthographic_projection%29.svg/220px-Canada_%28orthographic_projection%29.svg.png",
+    "name": "Canada",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/125px-Flag_of_Canada.svg.png",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "iso_code": "CA",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png",
+    "position": 8,
+    "hdi": 0.902
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Singapore",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Singapore_in_its_region_%28zoom%29.svg/250px-Singapore_in_its_region_%28zoom%29.svg.png",
+    "name": "Singapore",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/125px-Flag_of_Singapore.svg.png",
+    "languages": [
+      "English",
+      "Malay",
+      "Mandarin",
+      "Tamil"
+    ],
+    "iso_code": "SG",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png",
+    "position": 9,
+    "hdi": 0.901
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Denmark",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/EU-Denmark.svg/250px-EU-Denmark.svg.png",
+    "name": "Denmark",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/125px-Flag_of_Denmark.svg.png",
+    "languages": [
+      "Danish"
+    ],
+    "iso_code": "DK",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+    "position": 10,
+    "hdi": 0.9
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/EU-Ireland.svg/250px-EU-Ireland.svg.png",
+    "name": "Ireland",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/125px-Flag_of_Ireland.svg.png",
+    "languages": [
+      "Irish",
+      "English"
+    ],
+    "iso_code": "IE",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png",
+    "position": 11,
+    "hdi": 0.899
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Sweden",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/EU-Sweden.svg/250px-EU-Sweden.svg.png",
+    "name": "Sweden",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/125px-Flag_of_Sweden.svg.png",
+    "languages": [
+      "Swedish"
+    ],
+    "iso_code": "SE",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+    "position": 12,
+    "hdi": 0.898
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Iceland",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Iceland_%28orthographic_projection%29.svg/250px-Iceland_%28orthographic_projection%29.svg.png",
+    "name": "Iceland",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/125px-Flag_of_Iceland.svg.png",
+    "languages": [
+      "Icelandic"
+    ],
+    "iso_code": "IS",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png",
+    "position": 13,
+    "hdi": 0.895
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/United_Kingdom",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/EU-United_Kingdom.svg/250px-EU-United_Kingdom.svg.png",
+    "name": "United Kingdom",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/125px-Flag_of_the_United_Kingdom.svg.png",
+    "languages": [
+      "English"
+    ],
+    "iso_code": "GB",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+    "position": 14,
+    "hdi": 0.892
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Hong_Kong",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/China_Hong_Kong_4_levels_localisation.svg/220px-China_Hong_Kong_4_levels_localisation.svg.png",
+    "name": "Hong Kong",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/125px-Flag_of_Hong_Kong.svg.png",
+    "languages": [
+      "Chinese",
+      "English"
+    ],
+    "iso_code": "HK",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png",
+    "position": 15,
+    "hdi": 0.891
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/South_Korea",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/9/95/South_Korea_%28orthographic_projection%29.svg/250px-South_Korea_%28orthographic_projection%29.svg.png",
+    "name": "Korea, South",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png",
+    "languages": [
+      "Korean",
+      "Jeju language"
+    ],
+    "iso_code": "KR",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png",
+    "position": 15,
+    "hdi": 0.891
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Japan",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Japan_%28orthographic_projection%29.svg/220px-Japan_%28orthographic_projection%29.svg.png",
+    "name": "Japan",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png",
+    "languages": [
+      "Japanese"
+    ],
+    "iso_code": "JP",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+    "position": 17,
+    "hdi": 0.89
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Liechtenstein",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Location_Liechtenstein_Europe.png/250px-Location_Liechtenstein_Europe.png",
+    "name": "Liechtenstein",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/125px-Flag_of_Liechtenstein.svg.png",
+    "languages": [
+      "German"
+    ],
+    "iso_code": "LI",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png",
+    "position": 18,
+    "hdi": 0.889
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Israel",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/ISR_orthographic.svg/250px-ISR_orthographic.svg.png",
+    "name": "Israel",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/125px-Flag_of_Israel.svg.png",
+    "languages": [
+      "Hebrew",
+      "Arabic"
+    ],
+    "iso_code": "IL",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png",
+    "position": 19,
+    "hdi": 0.888
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/France",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/EU-France.svg/250px-EU-France.svg.png",
+    "name": "France",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/125px-Flag_of_France.svg.png",
+    "languages": [
+      "French"
+    ],
+    "iso_code": "FR",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+    "position": 20,
+    "hdi": 0.884
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Luxembourg",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/EU-Luxembourg.svg/250px-EU-Luxembourg.svg.png",
+    "name": "Luxembourg",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/125px-Flag_of_Luxembourg.svg.png",
+    "languages": [
+      "Luxembourgish",
+      "German",
+      "French"
+    ],
+    "iso_code": "LU",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png",
+    "position": 21,
+    "hdi": 0.881
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Belgium",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/6/67/EU-Belgium.svg/250px-EU-Belgium.svg.png",
+    "name": "Belgium",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/125px-Flag_of_Belgium.svg.png",
+    "languages": [
+      "Dutch",
+      "French",
+      "German"
+    ],
+    "iso_code": "BE",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png",
+    "position": 21,
+    "hdi": 0.881
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Austria",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/EU-Austria.svg/250px-EU-Austria.svg.png",
+    "name": "Austria",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/125px-Flag_of_Austria.svg.png",
+    "languages": [
+      "German"
+    ],
+    "iso_code": "AT",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png",
+    "position": 21,
+    "hdi": 0.881
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Finland",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/EU-Finland.svg/250px-EU-Finland.svg.png",
+    "name": "Finland",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/125px-Flag_of_Finland.svg.png",
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ],
+    "iso_code": "FI",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+    "position": 24,
+    "hdi": 0.879
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Slovenia",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/EU-Slovenia.svg/250px-EU-Slovenia.svg.png",
+    "name": "Slovenia",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/125px-Flag_of_Slovenia.svg.png",
+    "languages": [
+      "Slovene",
+      "Italian",
+      "Hungarian"
+    ],
+    "iso_code": "SI",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png",
+    "position": 25,
+    "hdi": 0.874
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Italy",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/EU-Italy.svg/250px-EU-Italy.svg.png",
+    "name": "Italy",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png",
+    "languages": [
+      "Italian"
+    ],
+    "iso_code": "IT",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+    "position": 26,
+    "hdi": 0.872
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Spain",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Spain.svg/250px-EU-Spain.svg.png",
+    "name": "Spain",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png",
+    "languages": [
+      "Spanish"
+    ],
+    "iso_code": "ES",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+    "position": 27,
+    "hdi": 0.869
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Czech_Republic",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/EU-Czech_Republic.svg/250px-EU-Czech_Republic.svg.png",
+    "name": "Czech Republic",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/125px-Flag_of_the_Czech_Republic.svg.png",
+    "languages": [
+      "Czech"
+    ],
+    "iso_code": "CZ",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png",
+    "position": 28,
+    "hdi": 0.861
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Greece",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/EU-Greece.svg/250px-EU-Greece.svg.png",
+    "name": "Greece",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/125px-Flag_of_Greece.svg.png",
+    "languages": [
+      "Greek"
+    ],
+    "iso_code": "GR",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png",
+    "position": 29,
+    "hdi": 0.853
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Brunei",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Location_Brunei_ASEAN.svg/250px-Location_Brunei_ASEAN.svg.png",
+    "name": "Brunei",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/125px-Flag_of_Brunei.svg.png",
+    "languages": [
+      "Malay"
+    ],
+    "iso_code": "BN",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png",
+    "position": 30,
+    "hdi": 0.852
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Qatar",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/QAT_orthographic.svg/250px-QAT_orthographic.svg.png",
+    "name": "Qatar",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/125px-Flag_of_Qatar.svg.png",
+    "languages": [
+      "Arabic"
+    ],
+    "iso_code": "QA",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png",
+    "position": 31,
+    "hdi": 0.851
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Cyprus",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/EU-Cyprus.svg/250px-EU-Cyprus.svg.png",
+    "name": "Cyprus",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/125px-Flag_of_Cyprus.svg.png",
+    "languages": [
+      "Greek",
+      "Turkish"
+    ],
+    "iso_code": "CY",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png",
+    "position": 32,
+    "hdi": 0.845
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Estonia",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/EU-Estonia.svg/250px-EU-Estonia.svg.png",
+    "name": "Estonia",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/125px-Flag_of_Estonia.svg.png",
+    "languages": [
+      "Estonian"
+    ],
+    "iso_code": "EE",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png",
+    "position": 33,
+    "hdi": 0.84
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Saudi_Arabia_%28orthographic_projection%29.svg/250px-Saudi_Arabia_%28orthographic_projection%29.svg.png",
+    "name": "Saudi Arabia",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/125px-Flag_of_Saudi_Arabia.svg.png",
+    "languages": [
+      "Arabic"
+    ],
+    "iso_code": "SA",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+    "position": 34,
+    "hdi": 0.836
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Lithuania",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EU-Lithuania.svg/250px-EU-Lithuania.svg.png",
+    "name": "Lithuania",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/125px-Flag_of_Lithuania.svg.png",
+    "languages": [
+      "Lithuanian"
+    ],
+    "iso_code": "LT",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png",
+    "position": 35,
+    "hdi": 0.834
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Poland",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/EU-Poland.svg/250px-EU-Poland.svg.png",
+    "name": "Poland",
+    "flag_big": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/125px-Flag_of_Poland.svg.png",
+    "languages": [
+      "Polish"
+    ],
+    "iso_code": "PL",
+    "flag_small": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+    "position": 35,
+    "hdi": 0.834
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Slovakia",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/EU-Slovakia.svg/250px-EU-Slovakia.svg.png",
+    "name": "Slovakia",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/125px-Flag_of_Slovakia.svg.png",
+    "languages": [
+      "Slovak"
+    ],
+    "iso_code": "SK",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png",
+    "position": 37,
+    "hdi": 0.83
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Andorra",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Location_Andorra_Europe.png/250px-Location_Andorra_Europe.png",
+    "name": "Andorra",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/125px-Flag_of_Andorra.svg.png",
+    "languages": [
+      "Catalan"
+    ],
+    "iso_code": "AD",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png",
+    "position": 37,
+    "hdi": 0.83
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Malta",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/EU-Malta.svg/250px-EU-Malta.svg.png",
+    "name": "Malta",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/125px-Flag_of_Malta.svg.png",
+    "languages": [
+      "Maltese",
+      "English"
+    ],
+    "iso_code": "MT",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png",
+    "position": 39,
+    "hdi": 0.829
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/United_Arab_Emirates_%28orthographic_projection%29.svg/250px-United_Arab_Emirates_%28orthographic_projection%29.svg.png",
+    "name": "United Arab Emirates",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/125px-Flag_of_the_United_Arab_Emirates.svg.png",
+    "languages": [
+      "Arabic"
+    ],
+    "iso_code": "AE",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png",
+    "position": 40,
+    "hdi": 0.827
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Portugal",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/EU-Portugal_with_islands_circled.svg/250px-EU-Portugal_with_islands_circled.svg.png",
+    "name": "Portugal",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/125px-Flag_of_Portugal.svg.png",
+    "languages": [
+      "Portuguese"
+    ],
+    "iso_code": "PT",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+    "position": 41,
+    "hdi": 0.822
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Chile",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CHL_orthographic_%28%2Ball_claims%29.svg/220px-CHL_orthographic_%28%2Ball_claims%29.svg.png",
+    "name": "Chile",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/125px-Flag_of_Chile.svg.png",
+    "languages": [
+      "Spanish"
+    ],
+    "iso_code": "CL",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+    "position": 41,
+    "hdi": 0.822
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Hungary",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/EU-Hungary.svg/250px-EU-Hungary.svg.png",
+    "name": "Hungary",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/125px-Flag_of_Hungary.svg.png",
+    "languages": [
+      "Hungarian"
+    ],
+    "iso_code": "HU",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png",
+    "position": 43,
+    "hdi": 0.818
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Bahrain",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bahrain_on_the_globe_%28Afro-Eurasia_centered%29.svg/250px-Bahrain_on_the_globe_%28Afro-Eurasia_centered%29.svg.png",
+    "name": "Bahrain",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/125px-Flag_of_Bahrain.svg.png",
+    "languages": [
+      "Arabic"
+    ],
+    "iso_code": "BH",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png",
+    "position": 44,
+    "hdi": 0.815
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Cuba",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cuba_%28orthographic_projection%29.svg/250px-Cuba_%28orthographic_projection%29.svg.png",
+    "name": "Cuba",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/125px-Flag_of_Cuba.svg.png",
+    "languages": [
+      "Spanish"
+    ],
+    "iso_code": "CU",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png",
+    "position": 44,
+    "hdi": 0.815
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Kuwait",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Kuwait_on_the_globe_%28Afro-Eurasia_centered%29.svg/250px-Kuwait_on_the_globe_%28Afro-Eurasia_centered%29.svg.png",
+    "name": "Kuwait",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/125px-Flag_of_Kuwait.svg.png",
+    "languages": [
+      "Arabic"
+    ],
+    "iso_code": "KW",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/23px-Flag_of_Kuwait.svg.png",
+    "position": 46,
+    "hdi": 0.814
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Croatia",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/1/15/EU-Croatia.svg/250px-EU-Croatia.svg.png",
+    "name": "Croatia",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/125px-Flag_of_Croatia.svg.png",
+    "languages": [
+      "Croatian"
+    ],
+    "iso_code": "HR",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png",
+    "position": 47,
+    "hdi": 0.812
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Latvia",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/EU-Latvia.svg/250px-EU-Latvia.svg.png",
+    "name": "Latvia",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/125px-Flag_of_Latvia.svg.png",
+    "languages": [
+      "Latvian"
+    ],
+    "iso_code": "LV",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png",
+    "position": 48,
+    "hdi": 0.81
+  },
+  {
+    "wiki": "https://en.wikipedia.org/wiki/Argentina",
+    "map": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Argentina_orthographic.svg/220px-Argentina_orthographic.svg.png",
+    "name": "Argentina",
+    "flag_big": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/125px-Flag_of_Argentina.svg.png",
+    "languages": [
+      "Spanish"
+    ],
+    "iso_code": "AR",
+    "flag_small": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+    "position": 49,
+    "hdi": 0.808
+  }
+]

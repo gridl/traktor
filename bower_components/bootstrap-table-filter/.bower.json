@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-table-filter",
+  "homepage": "https://github.com/lukaskral/bootstrap-table-filter",
+  "version": "1.1.0",
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.0",
+    "commit": "30c3d5f67ffd14bcc0f60bddf4211a2ba9fa5dfb"
+  },
+  "_source": "git://github.com/lukaskral/bootstrap-table-filter.git",
+  "_target": "~1.1.0",
+  "_originalSource": "bootstrap-table-filter",
+  "_direct": true
+}
