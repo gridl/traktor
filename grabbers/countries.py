@@ -131,7 +131,7 @@ class CountriesSpider(scrapy.Spider):
         return country
 
     def _parse_quandl(self, country, key, source_pattern):
-        """ Get country population from Quandl """
+        """ Get country parameter from Quandl """
         source = source_pattern % country['_code']
         try:
             res = Quandl.get(source, authroken=settings_local.QUANDL_TOKEN, rows=1)
