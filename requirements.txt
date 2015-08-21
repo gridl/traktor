@@ -1,3 +1,5 @@
 ipython==4.0.0
 Scrapy==1.0.3
 ghp-import==0.4.1
+Quandl==2.8.8
+pandas==0.16.2

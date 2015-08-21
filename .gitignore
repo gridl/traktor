@@ -4,3 +4,4 @@ venv
 web/bower_components
 web/data
 *.pyc
+grabbers/settings_local.py
